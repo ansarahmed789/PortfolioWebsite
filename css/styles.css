@@ -3741,7 +3741,7 @@ img.u-pull-left {
     height   : var(--vspace-1);
     width    : var(--vspace-1);
     position : absolute;
-    top      : .8rem;
+    top      : .2rem;
     right    : var(--vspace-0_75);
 }
 
